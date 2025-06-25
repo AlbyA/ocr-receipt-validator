@@ -1,0 +1,10 @@
+azure-ai-documentintelligence
+azure-cognitiveservices-vision-customvision
+azure-core
+azure-storage-blob
+fuzzywuzzy
+python-Levenshtein
+pillow
+pandas
+requests
+msrest
